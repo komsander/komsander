@@ -22,5 +22,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oz8xA07HKwLlpPUkM/giphy.gif" width="800" height= auto"/>
 </div>
-### :man_technologist: About Me :   
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.                                                                                                 
+### :man_technologist: About Me :  
+<div>
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
+</div>                                                                                                              
+                                                                                                 
