@@ -26,7 +26,7 @@
                                                                                                  
 :man_technologist: About Me :  
 <div>
-  I am a Web (Front-end) Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
+  I am a web (front-end) developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
 </div>                                                                                                              
 
 
