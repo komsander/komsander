@@ -32,4 +32,4 @@
 
 - :zap: In my free time, I play synthesizer and guitar.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Linkedin&logoColor=white)](komsander@gmail.com)                                                                                                 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Linkedin&logoColor=white)]                                                                                            
