@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src= "https://media.giphy.com/media/KazYtoXQkYy6BlkOwG/giphy.gif" width="50%"/>
+  <img src= "https://media.giphy.com/media/KazYtoXQkYy6BlkOwG/giphy.gif" width="25%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/aleksandr.fizik/">
