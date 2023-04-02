@@ -8,7 +8,7 @@
   <a href="https://vk.com/id490856973">
     <img src="https://img.shields.io/badge/VK-blue?logo=linkedin&logoColor=white&style=for-the-ba">
   </a>
-  <a href="https://www.discord.com/users/1069167802092630026/">Alex747#1061
+  <a href="https://www.discord.com/users/1069167802092630026/">
     <img src="https://img.shields.io/badge/discord-skyblue?logo=linkedin&logoColor=white&style=for-the-ba">
   </a>
 </div>  
