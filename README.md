@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://www.motionelements.com/embed/c/24018576" frameborder="0"> 
-</div>
+  <img src="https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif" width="100"/>
 </div>
 ### Hi there 👋
+https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif
