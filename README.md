@@ -12,5 +12,4 @@
     <img src="https://img.shields.io/badge/discord-skyblue?logo=linkedin&logoColor=white&style=for-the-ba">
   </a>
 </div>  
-
-1069167802092630026
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
