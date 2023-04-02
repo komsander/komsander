@@ -44,6 +44,6 @@
 
 :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=komsander
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-komsander
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-komsandere&theme=dark&background=000000)](https://git.io/streak-stats)
                                                                                                                    
