@@ -30,7 +30,7 @@
 </div>                                                                                                              
 
 
-<!-- :zap: In my free time, I play synthesizer and guitar.-->
+
 
                                                                                        
 ---
