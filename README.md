@@ -75,6 +75,15 @@
 :fire:
 ### *My Stats :*
 
+---            | свёрстано сайтов | разработано дизайнов 
+:----------|:----------------:|--------------------:
+реальных |        1        |2 
+учебных |        20        |-
+всего |        21        |2
+ 
+    
+		
+
 
 <!-- ![ GitHub top language](https://img.shields.io/github/languages/top/komsander/komsander)
 ![GitHub language count](https://img.shields.io/github/languages/count/komsander/massage-3-14) -->
