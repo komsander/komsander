@@ -33,9 +33,11 @@
 
  
 Знаю основы языков:
-- pyton
+- Python
 - JS
 - PHP
+
+Знаком с Jquery, Bootstrap, SASS
 
 Уровень владения английским языком - А2 (Pre-Intermediate)
 
@@ -73,4 +75,10 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-komsander&style=flat-square&color=lightgrey" alt=""/>
 </div> 
 
+
+
+<!-- [ссылка на мой сайт](https://...) -->
+<!-- [ссылка на мой сайт](logo.png) -->
+<!-- [ссылка на мой сайт(logo.png)](https://...) -->
+                          
                                                                                             
