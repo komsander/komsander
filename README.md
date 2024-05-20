@@ -26,7 +26,10 @@
 
 --- 
                                                                                                  
-:man_technologist: _About Me :_
+
+:man_technologist:
+#### *About Me :*
+
 Образование 
 -  высшее (физико-математический факультет АМГПУ),
 - дополнительное общее (художественная школа),
@@ -37,7 +40,7 @@
 - JS
 - PHP
 
-Знаком с Jquery, Bootstrap, SASS
+Знаком с Jquery, Bootstrap, SASS, WordPress
 
 Уровень владения английским языком - А2 (Pre-Intermediate)
 
@@ -57,7 +60,8 @@
 
                                                                                        
 ---
-:hammer_and_wrench: _Languages and Tools :_
+:hammer_and_wrench: 
+#### *Languages and Tools :*
                                                                                                                    <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -66,7 +70,8 @@
 
 ---
 
-:fire: _My Stats :_
+:fire:
+#### *My Stats :*
 
 
 <!-- ![ GitHub top language](https://img.shields.io/github/languages/top/komsander/komsander)
@@ -81,4 +86,3 @@
 <!-- [ссылка на мой сайт](logo.png) -->
 <!-- [ссылка на мой сайт(logo.png)](https://...) -->
                           
-                                                                                            
